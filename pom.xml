@@ -33,6 +33,8 @@
 					<webApp>
 						<contextPath>/</contextPath>
 					</webApp>
+					<stopPort>8089</stopPort>
+					<stopKey>1</stopKey>
 				</configuration>
 			</plugin>
 		</plugins>
